@@ -86,13 +86,13 @@ screenshots/10-account-unlocked.png
 
 
 
-Key Skills Demonstrated
-Microsoft Entra ID user administration
-Microsoft 365 user and license management
-IT troubleshooting and incident resolution
-Identity and access management fundamentals
-Technical documentation and reporting
-Help Desk workflow simulation
+Key Skills Demonstrated:
+1. Microsoft Entra ID user administration
+2. Microsoft 365 user and license management
+3. IT troubleshooting and incident resolution
+4. Identity and access management fundamentals
+5. Technical documentation and reporting
+6. Help Desk workflow simulation
 Summary
 
 This project demonstrates practical experience in enterprise identity management and IT support operations. It reflects the ability to investigate user issues, apply structured troubleshooting methods, and document resolutions in a professional IT environment.
