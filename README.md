@@ -1,12 +1,12 @@
 Azure Entra ID / Microsoft 365 Help Desk Simulation Lab
 
-Overview
+Overview:
 
 This project simulates a real-world IT Help Desk environment using Microsoft Entra ID and Microsoft 365 Admin Center. The purpose of this lab is to demonstrate practical skills in user account administration, troubleshooting, and incident resolution within an enterprise identity management system.
 
 The lab focuses on common IT support scenarios such as password resets, access issues, licensing problems, and account status verification.
 
-Objectives
+Objectives:
 
 The main objectives of this project are:
 
@@ -25,6 +25,7 @@ GitHub (for project documentation and version control)
 
 
 Help Desk Tickets
+
 Ticket 001 – Password Reset
 
 Issue:
@@ -34,6 +35,7 @@ Resolution:
 Password was reset using Microsoft Entra ID, and access was restored successfully.
 
 
+
 Ticket 002 – Security Group Access Issue
 
 Issue:
@@ -41,6 +43,7 @@ User reported missing access to required resources.
 
 Resolution:
 User was added to the appropriate security group, restoring access to the required systems.
+
 
 
 Ticket 003 – Microsoft 365 Licensing Issue
@@ -62,6 +65,7 @@ screenshots/07-ticket-3.png
 screenshots/08-license-assigned.png
 
 
+
 Ticket 004 – Account Access Verification
 
 Issue:
@@ -79,6 +83,7 @@ Confirmed that the user account was enabled and accessible.
 Evidence:
 screenshots/09-ticket-4.png
 screenshots/10-account-unlocked.png
+
 
 
 Key Skills Demonstrated
