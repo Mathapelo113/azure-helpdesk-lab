@@ -1,0 +1,10 @@
+Ticket ID: 002
+
+User:
+Sarah Adams
+
+Issue: 
+Cannnot access Finance folder.
+
+Resolution:
+Added user to Finance-Team security group
