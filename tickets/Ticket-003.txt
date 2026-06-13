@@ -1,0 +1,16 @@
+Ticket ID: 003
+
+User:
+David Jones
+
+Issue:
+Unable to access Outlook and Teams.
+
+Investigation:
+Checked Microsoft 365 licensing
+
+Findings:
+No available licenses in tenant.
+
+Resolution: 
+verified licensing status and documented requirement for license procurement.
