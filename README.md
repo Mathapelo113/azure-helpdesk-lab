@@ -93,7 +93,7 @@ Key Skills Demonstrated:
 4. Identity and access management fundamentals
 5. Technical documentation and reporting
 6. Help Desk workflow simulation
-Summary
+
 
 This project demonstrates practical experience in enterprise identity management and IT support operations. It reflects the ability to investigate user issues, apply structured troubleshooting methods, and document resolutions in a professional IT environment.
 
