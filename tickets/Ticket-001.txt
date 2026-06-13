@@ -1,0 +1,10 @@
+Ticket ID: 001
+
+User:
+John Smith
+
+Issue:
+Unable to log in.
+
+Resolution:
+Password reset completed.
