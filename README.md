@@ -61,8 +61,8 @@ Resolution:
 Documented licensing limitation and confirmed requirement for license allocation within the environment.
 
 Evidence:
-screenshots/07-ticket-3.png
-screenshots/08-license-assigned.png
+![Ticket 3 - License Issue](screenshots/07-ticket-3.png)
+![License Status](screenshots/08-license-assigned.png)
 
 
 
@@ -81,8 +81,8 @@ Resolution:
 Confirmed that the user account was enabled and accessible.
 
 Evidence:
-screenshots/09-ticket-4.png
-screenshots/10-account-unlocked.png
+![Ticket 4 - Ticket File](screenshots/09-ticket-4.png)
+![Account Status Verification](screenshots/10-account-unlocked.png)
 
 
 
